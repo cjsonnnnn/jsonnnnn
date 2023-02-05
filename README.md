@@ -3,19 +3,9 @@
 <h3 align="center">A Student of IT and Big Data Analytics</h3>
 
 <!-- <img align="right" alt="coding" width="486" src="https://qph.cf2.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9"> -->
-
-
-<br>
-
-
 <img align="right" alt="coding" width="405" src="https://i.imgur.com/HyIEBVR.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsonnnnn&label=profile%20views&color=4ac814&style=flat" alt="jsonnnnn" /> </p> -->
-
-
-<br>
-
-
 - 🌱 I’m currently learning **Flask, Kotlin, Python, and Vue.js**
 
 - 📝 I regularly write articles on [https://medium.com/@jsonnnnn](https://medium.com/@jsonnnnn)
