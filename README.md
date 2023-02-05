@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jason Caleb</h1>
 <h3 align="center">A student of IT and Big Data Analytics</h3>
 
-<img align="right" alt="coding" width="450" src="https://qph.cf2.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9">
+<img align="right" alt="coding" width="540" src="https://qph.cf2.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsonnnnn&label=profile%20views&color=4ac814&style=flat" alt="jsonnnnn" /> </p>
 
