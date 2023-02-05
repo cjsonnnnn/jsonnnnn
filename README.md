@@ -1,6 +1,6 @@
 [![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif)](https://www.linkedin.com/in/cjsonnnnn/)
 <h1 align="center">Hi 👋, I'm Jason Caleb</h1>
-<h3 align="center">A student of IT and Big Data Analytics</h3>
+<h3 align="center">A Student of IT and Big Data Analytics</h3>
 
 <img align="right" alt="coding" width="486" src="https://qph.cf2.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9">
 
@@ -17,7 +17,7 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<b><b><b><b>
+<b>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cjsonnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cjsonnnnn" height="30" width="40" /></a>
