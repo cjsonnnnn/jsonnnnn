@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **cjsonnnnn@gmail.com**
 
-- ⚡ Fun fact **technologies are getting smarter, yet i am not**
+- ⚡ Fact: **technologies are getting smarter, yet i am not**
 <!-- 
 
 <br>
