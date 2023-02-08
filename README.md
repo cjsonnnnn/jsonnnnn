@@ -6,9 +6,9 @@
 <img align="right" alt="coding" width="360" src="https://i.imgur.com/HyIEBVR.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsonnnnn&label=profile%20views&color=4ac814&style=flat" alt="jsonnnnn" /> </p> -->
-- 🌱 I’m currently learning **Flask, Kotlin, Python, and Vue.js**
+- 🌱 I’m currently learning **Web-based and Android-based applications**
 
-- 📝 I regularly write articles on [https://medium.com/@jsonnnnn](https://medium.com/@jsonnnnn)
+- 📝 I sometimes write articles on [https://medium.com/@jsonnnnn](https://medium.com/@jsonnnnn)
 
 - 📫 How to reach me **cjsonnnnn@gmail.com**
 
