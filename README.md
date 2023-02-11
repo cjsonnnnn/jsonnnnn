@@ -29,15 +29,6 @@
 <br>
 
 
-### Blogs posts
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jsonnnnn/0">
-    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jsonnnnn/0" alt="Recent Article 0">
-</a>
-
-
-<br>
-
-
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">  -->
 <!-- 1st L&T -->
@@ -56,3 +47,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsonnnnn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="jsonnnnn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsonnnnn&theme=dark" alt="jsonnnnn" /></p>
+
+
+### Blogs posts
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jsonnnnn/0">
+    <img src="https://github-readme-medium-recent-article.vercel.app/medium/@jsonnnnn/0" alt="Recent Article 0">
+</a>
