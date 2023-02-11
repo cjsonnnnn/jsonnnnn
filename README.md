@@ -15,7 +15,7 @@
 - ⚡ Fact: **technologies are getting smarter, yet i am not**
 
 
-
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -26,7 +26,7 @@
 </p>
 
 
-
+<br>
 
 
 ### Blogs posts
