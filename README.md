@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif)](https://www.linkedin.com/in/cjsonnnnn/)
-<h1 align="center">Hi 👋, Iam Jason Caleb</h1>
+<h1 align="center">Hi 👋, I am Jason Caleb</h1>
 <h3 align="center">A Computer Science Student</h3>
 
 <!-- <img align="right" alt="coding" width="486" src="https://qph.cf2.quoracdn.net/main-qimg-b461c057dc88b51fc521235833b1c6a9"> -->
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **cjsonnnnn@gmail.com**
 
-- ⚡ Fact: **technologies are getting smarter, yet i am not**
+- ⚡ Fact: **technologies are getting smarter, yet I am not**
 
 
 <br>
